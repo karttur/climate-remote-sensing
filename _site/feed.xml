@@ -1,1 +1,247 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-02T11:18:49+01:00</updated><id>http://localhost:4000/</id></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-23T13:12:04+02:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">Chapter 03 Drivers</title><link href="http://localhost:4000/draftch/ch03_drivers/" rel="alternate" type="text/html" title="Chapter 03 Drivers" /><published>2020-05-02T05:41:00+02:00</published><updated>2020-05-02T05:41:00+02:00</updated><id>http://localhost:4000/draftch/ch03_drivers</id><content type="html" xml:base="http://localhost:4000/draftch/ch03_drivers/">&lt;h3 id=&quot;the-climate-drivers&quot;&gt;The climate drivers&lt;/h3&gt;
+
+&lt;p&gt;The climate system is regulated by three main processes, like radio tuning buttons:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;solar radiation&lt;/li&gt;
+  &lt;li&gt;reflectance&lt;/li&gt;
+  &lt;li&gt;greenhouse gases&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=UU3VcvG5A6yUxeEEPKkv7VKA&quot;&gt;Maureen Raymo youtube uploads&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://climateblab.github.io&quot;&gt;ClimateBlab - Climate Science Web Laboratory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But inside the atosphere-land-ocean system, there are many processes that can eother reiforce or mitigate an initial change in climate. Traditionally these “steering” processes are called “cybernetics” (from greek steering). Those that stabilize (oppisng and change) are popularly called negative feedbakcs, those that reinforce an intina change are coled positive feedbacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-urey-cycle&quot;&gt;The Urey cycle&lt;/h3&gt;
+
+&lt;p&gt;Back in YYYY, XYZ Urey published a famous story on how geological processes regulate the atmospheric composition of CO2. At the the core of his idea is the different chemistry involved in the formation, breakdown and transformation betwwn the two types of rockes that exists: sedimentary rocks built from dead organisms and their shells and rocks formed bu cooling of the Earths magma (igneos rocks). Rocks that are partly refomred by processes at the interface between the surface (where the sedmintary rocks are formed) and the deeper magma (where completely molten magma is formed) is a thitd type, valled metamoorphic.&lt;/p&gt;
+
+&lt;p&gt;Sedimentary rock is to a large extent composed by dead shellss build from calcium carbonate - like the shells of snails, octopos and amny microorganisms seen best in a microscope. Calcium carbonate of course contains carbon, and when the dead shell carrying creature dies and sinks to the bottom of the sea, the carbon follows. And a miniscule amount of carbon is removed from the ocean. As the carbon in the ocean is directly related tp the carbon in the atmosphere, the death and sinking of millions and then billion and trilions of shell carrying creaturs, eventually suck the carbon from the atsmophere. You can safel skip the chemical reaction for this, but if you want it her it is:&lt;/p&gt;
+
+&lt;p&gt;Co2 +++CO2
+C=2 + CA ++ CaCO3&lt;/p&gt;
+
+&lt;p&gt;The formation of igneous rock famously takes place along the mid atlantic ridges.&lt;/p&gt;
+
+&lt;h6 id=&quot;albedo-changes-2000-to-2019&quot;&gt;Albedo changes 2000 to 2019&lt;/h6&gt;
+
+&lt;p&gt;Take all MODIS albedo, get annual mean and variation and then look for trends, significant and not.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-very-long-perspective&quot;&gt;The very long perspective&lt;/h5&gt;
+
+&lt;p&gt;In the Eocene the CO2 was at 800 ppm. Over geological timescales the rock-cycle regulates the atmospheric C=2. THis has been known for more than a centory, Urey cycle. There is a constant trickle of data refining the balance of the Urey cycle. [I think I have a rather recent science article].&lt;/p&gt;
+
+&lt;p&gt;RS can be used for tracking the old “sutur” and assist in identifying the historical “ring of fire” tectonic activity and the exposture of weathering rocks.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-ice-age-driver---milankovitch-cycles&quot;&gt;The ice age driver - Milankovitch cycles&lt;/h5&gt;
+
+&lt;p&gt;Maureen had a very cool illustration.&lt;/p&gt;
+
+&lt;p&gt;The frozen lasagna allegori - similogi for the lag in the system.&lt;/p&gt;
+
+&lt;p&gt;Paleo shoreline and the amount of water bound up (or not) in the polar ice. Look for ancient shores at different elevation in stable contientes (un-affected by iso-static uplift as a result of ice melt.) Landsat + lidar = DEM of landsruface with foreground (veg and buildings) removed. Maureen showed examples (Miami oolite)&lt;/p&gt;
+
+&lt;h5 id=&quot;sunspot-11-year-cycle&quot;&gt;Sunspot 11 year cycle&lt;/h5&gt;
+
+&lt;p&gt;Good explanation and up-to-date article on sun spots in science:&lt;a href=&quot;https://science.sciencemag.org/content/364/6443/818&quot;&gt;The calm before the storms&lt;/a&gt;. Link sunspots to climate indexes? The large blob?&lt;/p&gt;</content><author><name></name></author><category term="chapters" /><category term="drivers" /><category term="tgbook" /><summary type="html">Chapter 03 Drivers.</summary></entry><entry><title type="html">Chapter 02 Atmosphere</title><link href="http://localhost:4000/draftch/ch02_atmosphere/" rel="alternate" type="text/html" title="Chapter 02 Atmosphere" /><published>2020-04-29T05:41:00+02:00</published><updated>2020-04-29T05:41:00+02:00</updated><id>http://localhost:4000/draftch/ch02_atmosphere</id><content type="html" xml:base="http://localhost:4000/draftch/ch02_atmosphere/">&lt;h2 id=&quot;atmosphere&quot;&gt;Atmosphere&lt;/h2&gt;
+
+&lt;p&gt;The air we breath contains mostly nitrogen (79 %), then oxygen (20 %), carbon dioxide (0.5 %) and some other gases like methane, helium, argon. Then the atmosphere also contains another gas, in hihgly varying quantities, and also the most important of all green-house gases. Green house gases that let the radiation from the visible light from the sun pass unaffected, but when the heated Earth release energy as infrared light, then it these green house gases trap the light energy and converts it to heat. This happens becuase the chemical bonds in the greenhouse gases are just tuned in to capture the infrared light. Like the photosynthetic pigments in leafs are tuned in to capture visible ligt to drive the process of photosynthesis. Photosynthetis pigments are are a little better at utilizing blue and red light, and discard some of the green - so the green light bounce off the leafs. And we see the leafs AS GREEN. In the infrared wavelengths, that we can not see, much more of the incoming light bounces back. The difference in the amount of light that bounces, or is reflected, is ot tremendous importance - also for how the EArht lokks from space, and recodrded in satellite images. The natural laws of energy, or rather of thermodynamics, state the amount of energy must remain constant - except if converted to matter in which case Einsteins famous formula E = mc2 kicks in. So far I have mentioned the energy from the sun for all puropses of cliamte this can be regarded as the source of energy reaching Earth. But where does it end up and how can it be stored as heat and cause global warming? The major part of the incoming nergy from the sun bounces directly off the Earth. From clouds, snoc, ice, deserts, sandy beaches and any surface unless it is pitch black. But no such black surface exists in the real world.Similarly no surface is so white that all the incoming solar radiaiton (the energy from the sun os a sorth of electromagnetic redation) is reflected. The top of clouds and new snow might have a total reflection potential, called albedon, og maybe 90%. The remainng 10 % is trapped even in snw and converted to heat - increasing the temperature. A dark surface, like new asphalt, have an albedo od around 0.05. This means that 95 % of the solar radiation is converted to heat on any day. On a sunny summers day the asphalt can then get really hot. But the heat disappearts with the sun, whether it is a could that shades the sun or the sun stes below the horizon. As the first law of thermodynamics states that the total amount of energy must remaisn contants (except you that Einstein thing then), the heat energy must go somewhere. Obviously it does not disappear as visible light as we can not see he asphalt glow at night. No, the heat is emitted back towards the rest of the universe as infrared radiation that we can not see with our eyes. If the surface is really hot, then we can feel the inrarde radiation as thermal radiatione - like from a fire. This infrared radiaion has to pass the atmosphere, and this is where the greenhouse gases come in. The incoming nergery from the sun pass these gases unscorched (unaffected). But the re-emitted infrared light is then captured.&lt;/p&gt;
+
+&lt;p&gt;A miniature small part of  is cpatured by the processes of photosynthesis. A much larger part is&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;converting co2, the second most important greenhouse gas, and water, the most important greenhoseu (yes, water was the gas with varying quantities).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nitrogen (from the greek word nitrogenium). In Swedish (and similar languages), we called it kväve. Kvävet upptäcktes år 1772 av skotten Daniel Rutherford och enligt andra källor svensken Carl Wilhelm Scheele. the Swedish word kväve can be transpated as “suffocat” - the atmospheric gas that will suffucate a fire.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-short-long-story&quot;&gt;A short long story&lt;/h3&gt;
+
+&lt;p&gt;The atmospheric content of gases varies over time. Obviously the amount of water vapor can vary from a minute to another. We shall see, in chapter XX taht the water vapor content is critical for the Earth´s temperature regulation, and that what happens to atmospherc water vapor in the future, including how many and what kinds of cloouds that form, is a key player… There are other changes in the greenhouse gases. The C02, being sucked in by plants for photosytnthesis varies with growing seasons. The larger land masses in the N hemisphere comapre dto the southern, leads to lower Co2 content in the northern summer (sometimess caleld boreal summer) whereas the souther hemsihere summer (austral summer) signifies more CO2 in the atmosphere. The two most widely known changes in atmospheric compositions are the recent increase in Co2, as recorded by scientific instrument, for instance on mauna Loa, Hawaii. The second most widely known is 2 billion years older, and is when oceanic phtosynthesis oxygenated the atmosphere, as registerd in rocks formed at the time.&lt;/p&gt;
+
+&lt;p&gt;I ahve never been to Hawaii, but I have been to a mine just outside Stockholm that holds iron ore created by the oxygenation 2 billion years ago. Utö, 25 km south east of Stockholm. The marine orgnaisms that combined water and carbon dioxide to sugar exhuaseted so much oxygen during the summers that the waters in the ocean changed. Chenged so much that the dissoloved iron reacted with the oxygen - imilar to rusting. The small rust particles stuck togetner, and as they grew they also sank towards the bottom. During the summers that is. During the winters no oxygen was produced and the dissolved iron did not cluster and sink. Only the dead organisms continued siking. The result was a stripy sedminet, with summer layers containg iron folowed by winter layers with no oron. These kinds of banded iron ores exists in many places around the globe, and can be seen with the naked eye, whie you can feel the weight of the iron by holding a piece of the ore in your hand.&lt;/p&gt;
+
+&lt;p&gt;Another “signal” with a typical summer-winter oscillation is the global atmospheric content of carbon dioxide This study pattern of the content of carbon dioxide was discoved when the first carbon dioxide observatorey was created on top of the Mauna Loa mountain in Hawaii in 1959. Also this winter to summer variaton is driven by plants - but this time it is the high use (consumption) of carbon during the summer that causes a trough in the carbon dioxide signal with the peak associated with the winter when vegeation lies dormant in the northerm hemisphere.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-iconic-mauna-loa-record&quot;&gt;The iconic Mauna Loa record&lt;/h3&gt;
+
+&lt;p&gt;While the atmospheric CO2 content and change can not be directly traced from existing satellite records, the CO2 property as a greenhouse gas is directly related to the C02 molecule interaction with electromagnetic radiation.&lt;/p&gt;
+
+&lt;p&gt;The Mauna Loa record started its history some years before I started mine…&lt;/p&gt;
+
+&lt;p&gt;Of the CO2 that has been released by mankind since the beginning of industrialization, approximately 44 percen tremains in the atmosphere, 31 % has been taken up by vegetation and  26 % by the oceans.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-records-of-climate-gases&quot;&gt;Other records of climate gases&lt;/h3&gt;
+
+&lt;p&gt;The oxygenated atmosphere in the Precambrian is a fascinating story, and probably one of the larger crisis that life has survived during its history on Earth. How about records that can tell us about the atmospheric greenhouse gases over the more recent past? The most important archive for/over the past half million years or so, are air bubbles trapped in ice sheets. Mainly in Antarctica (a continent) and on Greenland (an island). When snow falls and gets buried under more falling snow it gets compacted over time. But inevetably small bubbles will remain and be buried with the ice that once was the snow falling though the atmophere trapped in that bubble. The age of the ice, and its bubble can be estiamted by how deep they are buried, and by well known event over tha past half million years that left markers in the ice. The massive volcano eruptions, global warm and cold spells that left imprints on the chemical compositions. The decompostio of atmospheric radionactive substances is another soruce for determinng th eage of a layer in he glcier. To get dwon into the iceshoeets scientists have drilled into the ice shoost of Antaarctican and Greenland hdreds of times, looking fir the best place and finding variations in the ice formations.&lt;/p&gt;
+
+&lt;p&gt;One of the longest, and mot famous ice cores is the one that was drilled at Vostoc in Antarctica …. The vostoc ice core takes us back a little more than 400,000 years in time.
+Greenland
+The military core saved in copenhage.&lt;/p&gt;
+
+&lt;h3 id=&quot;clear-and-foggy-windows&quot;&gt;Clear and foggy windows&lt;/h3&gt;
+
+&lt;p&gt;In a bit of a complicated manner we have approached the composition of the atmosphere and how it has changes over the history of the Earth, its dynamic in time of ice-aged, and the present increase in greenhouse gases. The laws of thermodynamics state that the amonth of energy is constant, but that the form changes, and that the change must always be accompanied by a loss of quality. The second law of thermodynamics is what prevents a perpetum mobile - an eternal machine can not be buildt. Perhaps with the exception of the universe itself, or, as Stephen Hakwins put it - “the univesre is the ultimate free lunch”. One consequence of these laws of thermodynamics is that the incoming electromagnetic redation from the sun is of higher quality compared to the re-emitted radaiton from the Earth twards the rest of the univerise. Thus, the incoming radiation is mainly in the small window of heigher energy visible light, wereas the outgoing radiation is shoifted towards lower energy infrared light. And while the atmoshere is like a clear window for the visible light, it is foggy for the infrared. Thus some of the ougoing energy is trapped in the atmosphere, causeing it to heat up. This can happen becuase heat is the lowest quality type of energy (so the heating of the atmsophere does not violate the laws of thermodynamics). The different molecules that act as GHG all have electrons with quantum states that corresponds to exactly the energy levels at infrared wavelenghts. Figure X shows the clear window of the visible light, and the wavelengths in the infrared that can be absurbed by the GHG.&lt;/p&gt;
+
+&lt;p&gt;Even if the atmosphere is transparent for visible light, it is not transparent to the even more energetic wavelegnth - namely ultra violett (UV). UV light is too energetic for life on Earth to handle and UV light is also used for disinfection. The sun radiated a large amount of UV light (Figure 1 - the radiation form the sun), and this reaches the top of Earth´s atmosphere together with the visible waveleghts. But the UV light is filtered out by ozon, and this means that technically ozon (O3) is also a GHG.&lt;/p&gt;
+
+&lt;h3 id=&quot;observing-the-ghg-from-satellite-imagery&quot;&gt;Observing the GHG from satellite imagery&lt;/h3&gt;
+
+&lt;p&gt;All the GHG that we have encounted, O3, CO2, Ch4, N20, CFC, HFC .. absorb electromagnetic radiation (light) and difference wavelengths (“colors”) and it should thus in principle be possible to construct an instrument that can record the absorption of light in these sepcific wavelengths. Doing that would allow scientists to estimate the atmosphere content of GHG from satellit emesures. In the jargon of the remote sensing cohort this is called a “top-down” approach. Not because it is based on a “camera” looking down on Earth from above, no. The reason for the label top-dow is that it is a method that does not require local knoweldge or assebly of knowledge from archives.&lt;/p&gt;
+
+&lt;p&gt;Several instuments flown on satellites can sense the atmospheric content of GHG. OCO?, CH4? Bastviken? The old CFC history.&lt;/p&gt;
+
+&lt;h3 id=&quot;an-anecdote-on-observing-cfc&quot;&gt;An anecdote on observing CFC&lt;/h3&gt;
+
+&lt;p&gt;In the 1980s the ozon layer above the poles where thinning out - a consequence of the accumualted CFC emisiion from refredrerators and other cooling devices. The satellite sensors were well calibrated, but the low O3 content registered by the sensor where discarded as errors as the expoerts felt the =3 could not be that low. The “härskande” paradigm did not allow accounting for the low ….&lt;/p&gt;
+
+&lt;h3 id=&quot;cirrus&quot;&gt;Cirrus&lt;/h3&gt;
+
+&lt;p&gt;One of the largest uncertaintes in climate modeling is the thin line between water vapor as a GHG and clouds (the water vapor frorming ice crytals) reflecting the incoming radiation backs as specular (mirror) reflection. Obsering currus has not been of large interest from a remote sensing perspective, but cirrus causes distortion in the energy balance and this subsequenlty affect the anount or visible and IR radiation reaching the earths surface. Unless accounted for, the distortion will be registered as a ground effect and the interpretation of surface condtions will be biased (distorited). Thus some of the more recent optical sensors (Like Landsat OLI) do register the amount of light in the XYZ - which corresponds exacly to the “color” of cirrus clouds. Figure 3 …&lt;/p&gt;
+
+&lt;p&gt;FIGURE 3 CIRRUS CLOUD&lt;/p&gt;</content><author><name></name></author><category term="atmosphere" /><category term="tgbook" /><summary type="html">Chapter on atmospheric gas content</summary></entry><entry><title type="html">Chapters</title><link href="http://localhost:4000/content/chapters/" rel="alternate" type="text/html" title="Chapters" /><published>2019-12-08T05:41:00+01:00</published><updated>2019-12-08T05:41:00+01:00</updated><id>http://localhost:4000/content/chapters</id><content type="html" xml:base="http://localhost:4000/content/chapters/">&lt;p&gt;Aerosols???&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;h3 id=&quot;historical-records&quot;&gt;Historical records&lt;/h3&gt;
+
+&lt;h4 id=&quot;atmosphere&quot;&gt;Atmosphere&lt;/h4&gt;
+
+&lt;h5 id=&quot;the-iconic-mauna-loa-record&quot;&gt;The iconic Mauna Loa record&lt;/h5&gt;
+
+&lt;p&gt;While the atmospheric CO2 content and change can not be directly traced from existing satellite records, the CO2 property as a greenhouse gas is directly related to the C02 molecule interaction with electromagnetic radiation.&lt;/p&gt;
+
+&lt;p&gt;The Mauna Loa record started its history some years before I started mine…&lt;/p&gt;
+
+&lt;p&gt;Of the CO2 that has been released by mankind since the beginning of industrialization, approximately 44 percen tremains in the atmosphere, 31 % has been taken up by vegetation and  26 % by the oceans.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-climate-system&quot;&gt;The climate system&lt;/h5&gt;
+
+&lt;p&gt;The climate system is regulated by three main processes (that Maureen Raymo refers to a knobs):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;solar radiation&lt;/li&gt;
+  &lt;li&gt;reflectance&lt;/li&gt;
+  &lt;li&gt;greenhouse gases&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=UU3VcvG5A6yUxeEEPKkv7VKA&quot;&gt;Maureen Raymo youtube uploads&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://climateblab.github.io&quot;&gt;ClimateBlab - Climate Science Web Laboratory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But inside the atosphere-land-ocean system, there are many processes that can eother reiforce or mitigate an initial change in climate. Traditionally these “steering” processes are called “cybernetics” (from greek steering). Those that stabilize (oppisng and change) are popularly called negative feedbakcs, those that reinforce an intina change are coled positive feedbacks.&lt;/p&gt;
+
+&lt;h6 id=&quot;albedo-changes-2000-to-2019&quot;&gt;Albedo changes 2000 to 2019&lt;/h6&gt;
+
+&lt;p&gt;Take all MODIS albedo, get annual mean and variation and then look for trends, significant and not.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-very-long-perspective&quot;&gt;The very long perspective&lt;/h5&gt;
+
+&lt;p&gt;In the Eocene the CO2 was at 800 ppm. Over geological timescales the rock-cycle regulates the atmospheric C=2. THis has been known for more than a centory, Urey cycle. There is a constant trickle of data refining the balance of the Urey cycle. [I think I have a rather recent science article].&lt;/p&gt;
+
+&lt;p&gt;RS can be used for tracking the old “sutur” and assist in identifying the historical “ring of fire” tectonic activity and the exposture of weathering rocks.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-ice-age-driver---milankovitch-cycles&quot;&gt;The ice age driver - Milankovitch cycles&lt;/h5&gt;
+
+&lt;p&gt;Maureen had a very cool illustration.&lt;/p&gt;
+
+&lt;p&gt;The frozen lasagna allegori - similogi for the lag in the system.&lt;/p&gt;
+
+&lt;p&gt;Paleo shoreline and the amount of water bound up (or not) in the polar ice. Look for ancient shores at different elevation in stable contientes (un-affected by iso-static uplift as a result of ice melt.) Landsat + lidar = DEM of landsruface with foreground (veg and buildings) removed. Maureen showed examples (Miami oolite)&lt;/p&gt;
+
+&lt;h5 id=&quot;sunspot-11-year-cycle&quot;&gt;Sunspot 11 year cycle&lt;/h5&gt;
+
+&lt;p&gt;Good explanation and up-to-date article on sun spots in science:&lt;a href=&quot;https://science.sciencemag.org/content/364/6443/818&quot;&gt;The calm before the storms&lt;/a&gt;. Link sunspots to climate indexes? The large blob?&lt;/p&gt;
+
+&lt;h4 id=&quot;land&quot;&gt;Land&lt;/h4&gt;
+
+&lt;p&gt;African Humid Period.
+&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-218-4576-shuttle-radar-sahel-buried-channels/&quot;&gt;Subsurface Valleys and Geoarcheology of the Eastern Sahara Revealed by Shuttle Radar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;China-tanten at my Stockholm Univeristy Department has recently published on ITCZ and Norht African Monosoon (2019).&lt;/p&gt;
+
+&lt;h4 id=&quot;ocean&quot;&gt;Ocean&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-363-6432-rocean-co2-sink-1994-2007/&quot;&gt;The oceanic sink for anthropogenic CO2 from 1994 to 2007&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ocean level rise, Maureen said that satelite data showing this exists.&lt;/p&gt;
+
+&lt;h4 id=&quot;cryosphere&quot;&gt;Cryosphere&lt;/h4&gt;
+
+&lt;p&gt;GRACE complete dataset for Graneland and West African Shelf melt. Remember that the Greenlan ice attracts an extra waterpillar of 30 m.&lt;/p&gt;
+
+&lt;h3 id=&quot;present-situations&quot;&gt;Present situations&lt;/h3&gt;
+
+&lt;h4 id=&quot;overall&quot;&gt;Overall&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-361-6399-climate-change-seasonal-fingerprint/&quot;&gt;The seasonal fingerprint of climate change&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;land-1&quot;&gt;Land&lt;/h4&gt;
+
+&lt;h4 id=&quot;ocean-1&quot;&gt;Ocean&lt;/h4&gt;
+
+&lt;h5 id=&quot;sea-level&quot;&gt;Sea level&lt;/h5&gt;
+
+&lt;p&gt;Remote sensing altimetry, Sentinel 6 will take over in 2020. https://www.eumetsat.int/website/home/Copernicus/copernicus-sentinel-6/index.html&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;{../../images/IMG_SLA-GIAC-GLOBAL.jpg&quot; /&gt;
+&lt;figcaption&gt;Global mean sea level from altimetry satellites 1992-2019.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;IMG_SLA-GIAC-GLOBAL&lt;/p&gt;
+
+&lt;h5 id=&quot;ocean-temperature---the-big-temperature-blob&quot;&gt;Ocean temperature - the big [temperature] blob&lt;/h5&gt;
+
+&lt;h5 id=&quot;vanishing-arctic-sea-ice&quot;&gt;Vanishing arctic sea ice&lt;/h5&gt;
+
+&lt;p&gt;The warming anomaly in Arctic waters.&lt;/p&gt;
+
+&lt;h5 id=&quot;ocean-winds---the-co2-transfer&quot;&gt;Ocean winds - the CO2 transfer&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://science.sciencemag.org/content/332/6028/451&quot;&gt;Science article on increases wind speed using a range of sensors. Global Trends in Wind Speed and Wave Height.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Transfer of CO2 in the Arctic ocean and how the arctic ocean disappearing ice change that.&lt;/p&gt;
+
+&lt;h5 id=&quot;explaining-ocean-circulation&quot;&gt;Explaining Ocean Circulation&lt;/h5&gt;
+
+&lt;p&gt;El Nino and Climate indexes, have they become redundant.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-358-6360-rs-oco-2-el-nino/&quot;&gt;OCO instrument show carbon content correaltions woth El Nino&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-365-6448-sargassum-remoite-sensing/&quot;&gt;The great Atlantic Sargassum belt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;cryosphere-1&quot;&gt;Cryosphere&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-361-6407-NASA-iceat-2/&quot;&gt;ICESAT-2 NASA space laser targets melting poles&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;future-possibilities&quot;&gt;Future possibilities&lt;/h3&gt;
+
+&lt;h4 id=&quot;general&quot;&gt;general&lt;/h4&gt;
+
+&lt;h5 id=&quot;remote-sensing-for-avoiding-double-counting&quot;&gt;Remote sensing for avoiding double counting&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-365-6460-SROCC-summary/&quot;&gt;Double counting and the Paris Agreement rulebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.wri.org/blog/2018/09/6-ways-remove-carbon-pollution-sky&quot;&gt;Somewhere I saw a list on opportunities for reducing atmospheric carbon dioxide content?&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;forest&lt;/li&gt;
+  &lt;li&gt;soil&lt;/li&gt;
+  &lt;li&gt;(wetlands?? so I can add something)&lt;/li&gt;
+  &lt;li&gt;ocean&lt;/li&gt;
+  &lt;li&gt;rock weathering&lt;/li&gt;
+  &lt;li&gt;direct capture&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;land-2&quot;&gt;Land&lt;/h4&gt;
+
+&lt;p&gt;[Global reforestation potential (Restoring forests as a means to many ends)(https://karttur.github.io/readingfruits/science/science-365-6448-forest-restoration-benefits/)&lt;/p&gt;
+
+&lt;h4 id=&quot;ocean-2&quot;&gt;Ocean&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://karttur.github.io/readingfruits/science/science-365-6448-mangrove-storm-protection-remote-sensing/&quot;&gt;Mangrove storm protectionservice&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;discussion&quot;&gt;Discussion&lt;/h3&gt;
+
+&lt;p&gt;Climate agreements (the Paris deal) and democracy (Science article from 2018): &lt;a href=&quot;https://science.sciencemag.org/content/364/6443/846.18&quot;&gt;Democracy and climate-change action&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="chapters" /><category term="tgbook" /><summary type="html">Content of book of remote sensing proving and mitigating climate change.</summary></entry></feed>
